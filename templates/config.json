@@ -1,0 +1,14 @@
+{
+    "token":"",
+    "logger_ops":{
+        "application_name": "r.vco",
+        "service_name": "r.vco",
+        "service_icon_url": "https://vcokltfre.github.io/service.png",
+        "service_environment": "Development",
+        "default_level": "info"
+    },
+    "logger_hook":"",
+    "cogs":[
+        
+    ]
+}
