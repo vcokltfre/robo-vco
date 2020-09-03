@@ -22,7 +22,7 @@ class Admin(commands.Cog):
         if ctx.invoked_subcommand == None:
             await ctx.channel.send("Usage: `!cogs <load | unload | reload> [cogs]`")
 
-    @cogs_group.command(name="load")
+    #@cogs_group.command(name="load")
 
 def setup(bot):
     bot.add_cog(Admin(bot))
