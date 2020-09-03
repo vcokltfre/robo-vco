@@ -3,3 +3,4 @@ aiohttp
 discord-logger
 get-stick-bugged-lol
 requests
+jishaku
